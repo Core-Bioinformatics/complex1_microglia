@@ -1,1 +1,6 @@
-# Complex1 Microglia
+# Mitochondrial complex I activity in microglia sustains neuroinflammation
+
+Peruzzotti-Jametti, L.1,2*†; Willis, C.M.1†; Krzak, G.1†; Hamel, R.1; Pirvan, L.3; Ionescu, R-B.1; Reisz, J.A.4; Prag, H.A.5; Garcia-Segura M.E.1; Wu, V.2; Xiang, Y.2; Barlas, B.1,6; Casey, A.M.5; van den Bosch, A.M.R.1; Nicaise, A.M.1; Roth, L.1; Bates, G.R.5; Huang, H.2; Prasad P.1, Vincent, A.E.7; Frezza, C.8; Viscomi, C.9; Balmus, G.1,6,10; Takats, Z.2; Marioni, J.C.11; D’Alessandro, A.4; Murphy, M.P.5; Mohorianu, I.3; and Pluchino, S.1*
+
+Sustained smouldering, or low grade, activation of myeloid cells is a common hallmark of several chronic neurological diseases, including multiple sclerosis (MS). Distinct metabolic and mitochondrial features guide the activation and the diverse functional states of myeloid cells. However, how these metabolic features act to perpetuate central nervous system (CNS) inflammation is currently unknown. Using a multiomics approach, we identify a new molecular signature that sustains the activation of microglia through mitochondrial complex I (CI) activity driving reverse electron transport (RET) and the production of reactive oxygen species (ROS). Mechanistically, blocking CI in pro-inflammatory microglia protects the CNS against neurotoxic damage and improves functional outcomes in animal disease models in vivo. Our work shows that CI activity in microglia is a potential new therapeutic target to foster neuroprotection in chronic inflammatory CNS disorders.
+
